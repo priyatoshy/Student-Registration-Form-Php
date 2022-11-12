@@ -1,0 +1,26 @@
+.container{
+    margin-left: 10%;
+    margin-top: 10%;
+   
+}
+.container h3,input,label{
+    font-size: x-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 1300px;
+    height: 30px;
+    border: solid black 2px;
+
+}
+
+body {
+        background-image: url("bg1.jpeg");
+        background-color: #cccccc;
+        z-index: -1;
+       }
+.btn{
+    margin-left: 25%;
+    font-size: larger;
+    border-radius: 10px;
+}
